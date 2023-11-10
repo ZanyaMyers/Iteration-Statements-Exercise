@@ -1,0 +1,14 @@
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\refint\IterationStatements.dll
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
+C:\Users\bigmi\OneDrive\Desktop\repos\Iteration-Statements-Exercise3\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
